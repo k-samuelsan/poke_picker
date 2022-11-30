@@ -1,1 +1,0 @@
-alert('Welcome to the world of Pokemon, ' + name + '! Please choose your starter Pokemon by clicking a pokeball below.');
